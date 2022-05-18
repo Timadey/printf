@@ -1,3 +1,1 @@
-# printf >> README.md
-
-echo # printf
+My first readme
